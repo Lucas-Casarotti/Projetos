@@ -1,0 +1,6 @@
+C:\Users\casar\Desktop\Teste01\CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\casar\Desktop\Teste01\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\casar\Desktop\Teste01\CRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Teste01\CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\casar\Desktop\Teste01\CRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\casar\Desktop\Teste01\CRUD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
