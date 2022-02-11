@@ -19,22 +19,20 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * Abrir a solução CRUD.sln
 * Alterar a classe de conexão
 * Alterando o caminho correto do Data Source da sua máquina.
-* Exemplo
-<img src="https://github.com/Lucas-Casarotti/Teste01/blob/main/Conectando%20no%20banco/DataSource.png" align="left" alt="Data Source">
-<br>
+* <img src="https://github.com/Lucas-Casarotti/Teste01/blob/main/Conectando%20no%20banco/DataSource.png" align="left" alt="Data Source">
 * Após ter conectado o banco de dados corretamente
 * Pressione a tecla F10
 * Espere alguns segundos até projeto ser aberto no browser
 
-### 📦 Desenvolvimento
-### 🛠 Tecnologias
-* Front-end
-- Html5
-- CSS3
-- Bootstrap4
-* Back-end
-- Net framework 4.5
-- Banco de dados SQL SERVER
+## 📦 Desenvolvimento
+🛠 Tecnologias
+* Front-end:
+* Html5
+* CSS3
+* Bootstrap4
+* Back-end:
+* Net framework 4.5
+* Banco de dados SQL SERVER
 
 ### Funcionalidades do projeto
 - [x] Cadastrar pontos turísticos
