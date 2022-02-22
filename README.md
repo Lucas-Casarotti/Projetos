@@ -1,5 +1,5 @@
 
-<h1 align="center">Esses sãos meus projetos pessoais 👨‍💻</h1>
+<h1 align="center">Projetos pessoais 👨‍💻</h1>
 
 ## ✒️ Autor
 
