@@ -11,7 +11,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * [Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/downloads/)
 * [Banco de dados SQL SERVER](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
-## 🔧 Configuração do banco de dados
+## 🔧 Configurações do banco de dados
 * É preciso criar duas tabelas 1-Estados, 2-PontosTuristicos no banco de dados SQL
 * Os arquivos .sql dessas tabelas já estão salvos na pasta "Conectando no banco de dados"
 
