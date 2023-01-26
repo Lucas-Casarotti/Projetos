@@ -17,7 +17,7 @@
 - [x] Buscar
 
 ## Gif do Projeto
-![Projeto](https://github.com/Lucas-Casarotti/Teste01/blob/main/Projeto.gif)
+![Projeto](https://github.com/Lucas-Casarotti/Projetos/blob/main/Projeto.gif)
 ## ✒️ Autor
 
   **Lucas Matheus Casarotti Rodrigues** 
