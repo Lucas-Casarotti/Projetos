@@ -17,7 +17,7 @@
 - [x] Buscar
 
 ## Gif do Projeto
-![Projeto](https://github.com/Lucas-Casarotti/Projetos/blob/main/Projeto.gif)
+![Projeto](https://github.com/Lucas-Casarotti/Projetos/blob/main/02%20-%20Back-end/01%20-%20ASP.NET/02%20-%20CRUD%20Pessoas/Projeto.gif)
 ## ✒️ Autor
 
   **Lucas Matheus Casarotti Rodrigues** 
