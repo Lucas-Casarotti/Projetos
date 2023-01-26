@@ -1,0 +1,108 @@
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\CRUD.dll.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\CRUD.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\CRUD.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\csc.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\csc.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\csc.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\csi.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\csi.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\System.AppContext.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\vbc.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\vbc.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\vbc.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\obj\Debug\CRUD.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - CRUD - Com ADO.NET\CRUD\CRUD\obj\Debug\CRUD.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\CRUD.dll.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\CRUD.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\CRUD.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csc.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csc.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csc.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csi.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csi.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.AppContext.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\vbc.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\vbc.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\vbc.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\04 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\CRUD.dll.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\CRUD.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\CRUD.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csc.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csc.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csc.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csi.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\csi.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.AppContext.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\vbc.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\vbc.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\vbc.rsp
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\03 - .NET\01 - ASP.NET\01 - CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
